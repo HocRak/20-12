@@ -1,0 +1,10 @@
+C:\Users\lolvl\source\repos\banluu\banluu\obj\Debug\banluu.csproj.AssemblyReference.cache
+C:\Users\lolvl\source\repos\banluu\banluu\obj\Debug\banluu.Properties.Resources.resources
+C:\Users\lolvl\source\repos\banluu\banluu\obj\Debug\banluu.csproj.GenerateResource.cache
+C:\Users\lolvl\source\repos\banluu\banluu\obj\Debug\banluu.csproj.CoreCompileInputs.cache
+C:\Users\lolvl\source\repos\banluu\banluu\bin\Debug\banluu.exe.config
+C:\Users\lolvl\source\repos\banluu\banluu\bin\Debug\banluu.exe
+C:\Users\lolvl\source\repos\banluu\banluu\bin\Debug\banluu.pdb
+C:\Users\lolvl\source\repos\banluu\banluu\obj\Debug\banluu.Form1.resources
+C:\Users\lolvl\source\repos\banluu\banluu\obj\Debug\banluu.exe
+C:\Users\lolvl\source\repos\banluu\banluu\obj\Debug\banluu.pdb
