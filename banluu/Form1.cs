@@ -914,6 +914,7 @@ namespace banluu
             }
         }
 
+<<<<<<< HEAD
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             MessageBox.Show("thay doi radio");
@@ -933,5 +934,11 @@ namespace banluu
         }
 
       
+=======
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
     }
 }

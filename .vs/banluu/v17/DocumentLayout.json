@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\lolvl\\source\\repos\\tesst thu\\ban-test\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|c:\\users\\lolvl\\source\\repos\\tesst thu\\ban-test\\banluu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+      "AbsoluteMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|C:\\Users\\lolvl\\source\\repos\\banluu\\banluu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|solutionrelative:banluu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|c:\\users\\lolvl\\source\\repos\\banluu\\banluu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
       "RelativeMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|solutionrelative:banluu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -17,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|C:\\Users\\lolvl\\source\\repos\\tesst thu\\ban-test\\banluu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|solutionrelative:banluu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|C:\\Users\\lolvl\\source\\repos\\banluu\\banluu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8038A0-0C5D-42AF-BCAF-71673DC94CA3}|banluu\\banluu.csproj|solutionrelative:banluu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,25 +50,63 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lolvl\\source\\repos\\banluu\\banluu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "banluu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lolvl\\source\\repos\\banluu\\banluu\\Form1.Designer.cs",
+              "RelativeToolTip": "banluu\\Form1.Designer.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAhwHkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:40:42.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolvl\\source\\repos\\banluu\\banluu\\Form1.cs",
+              "RelativeDocumentMoniker": "banluu\\Form1.cs",
+              "ToolTip": "C:\\Users\\lolvl\\source\\repos\\banluu\\banluu\\Form1.cs [Design]",
+              "RelativeToolTip": "banluu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:40:17.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\lolvl\\source\\repos\\tesst thu\\ban-test\\banluu\\Form1.cs",
               "RelativeDocumentMoniker": "banluu\\Form1.cs",
               "ToolTip": "C:\\Users\\lolvl\\source\\repos\\tesst thu\\ban-test\\banluu\\Form1.cs",
               "RelativeToolTip": "banluu\\Form1.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAIoDAAAAAAAAAAAAAKIDAAARAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAANUBAAAAAAAAAAAuwN0BAAAAAAAAAAAAAA==",
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T04:41:37.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lolvl\\source\\repos\\tesst thu\\ban-test\\banluu\\Program.cs",
               "RelativeDocumentMoniker": "banluu\\Program.cs",
               "ToolTip": "C:\\Users\\lolvl\\source\\repos\\tesst thu\\ban-test\\banluu\\Program.cs",
               "RelativeToolTip": "banluu\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T04:40:47.601Z"
@@ -81,6 +135,12 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T04:40:17.368Z",
               "EditorCaption": " [Design]"
+=======
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:40:47.601Z",
+              "EditorCaption": ""
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
             }
           ]
         }

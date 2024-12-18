@@ -54,8 +54,13 @@
             this.label12 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
+=======
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.label21 = new System.Windows.Forms.Label();
             this.textBoxFind = new System.Windows.Forms.TextBox();
@@ -72,9 +77,12 @@
             this.label25 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
             this.label27 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
+=======
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarDelay)).BeginInit();
@@ -372,6 +380,7 @@
             this.panel1.Size = new System.Drawing.Size(1106, 85);
             this.panel1.TabIndex = 27;
             // 
+<<<<<<< HEAD
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
@@ -395,6 +404,29 @@
             this.radioButton1.Text = "HASH STRING";
             this.radioButton1.UseVisualStyleBackColor = false;
             this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+=======
+            // comboBox1
+            // 
+            this.comboBox1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(523, 32);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(140, 24);
+            this.comboBox1.TabIndex = 39;
+            // 
+            // radioButton3
+            // 
+            this.radioButton3.BackColor = System.Drawing.Color.DarkTurquoise;
+            this.radioButton3.Font = new System.Drawing.Font("Showcard Gothic", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.radioButton3.Location = new System.Drawing.Point(346, 48);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(150, 38);
+            this.radioButton3.TabIndex = 38;
+            this.radioButton3.TabStop = true;
+            this.radioButton3.Text = "HASH STRING";
+            this.radioButton3.UseVisualStyleBackColor = false;
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
             // 
             // radioButton2
             // 
@@ -486,7 +518,10 @@
             this.label22.Size = new System.Drawing.Size(158, 46);
             this.label22.TabIndex = 26;
             this.label22.Text = "Animation Speed";
+<<<<<<< HEAD
             this.label22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+=======
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
             // 
             // panel3
             // 
@@ -530,7 +565,10 @@
             this.label23.Size = new System.Drawing.Size(238, 102);
             this.label23.TabIndex = 35;
             this.label23.Text = "Algorithm Visualization";
+<<<<<<< HEAD
             this.label23.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+=======
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
             // 
             // label24
             // 
@@ -564,6 +602,7 @@
             this.label27.Size = new System.Drawing.Size(0, 16);
             this.label27.TabIndex = 37;
             // 
+<<<<<<< HEAD
             // label28
             // 
             this.label28.AutoSize = true;
@@ -588,6 +627,8 @@
             this.label30.Size = new System.Drawing.Size(0, 16);
             this.label30.TabIndex = 41;
             // 
+=======
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
             // Form1
             // 
             this.AccessibleRole = System.Windows.Forms.AccessibleRole.Window;
@@ -641,6 +682,10 @@
             this.HelpButton = true;
             this.Name = "Form1";
             this.Text = "Form2";
+<<<<<<< HEAD
+=======
+            this.Load += new System.EventHandler(this.Form1_Load);
+>>>>>>> 77d34948b74aeb83b5c752792f9906e5015f9660
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
