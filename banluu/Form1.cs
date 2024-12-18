@@ -473,6 +473,9 @@ namespace banluu
             // Lấy giá trị từ TextBox tìm kiếm
         }
 
-       
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

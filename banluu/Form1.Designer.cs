@@ -53,6 +53,9 @@
             this.label12 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.label21 = new System.Windows.Forms.Label();
             this.textBoxFind = new System.Windows.Forms.TextBox();
             this.buttonFind = new System.Windows.Forms.Button();
@@ -67,9 +70,6 @@
             this.label25 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
             this.label27 = new System.Windows.Forms.Label();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarDelay)).BeginInit();
             this.panel4.SuspendLayout();
@@ -95,7 +95,6 @@
             this.textBoxInput.Name = "textBoxInput";
             this.textBoxInput.Size = new System.Drawing.Size(100, 22);
             this.textBoxInput.TabIndex = 1;
-//            this.textBoxInput.TextChanged += new System.EventHandler(this.textBoxInput_TextChanged);
             // 
             // labelResult
             // 
@@ -244,7 +243,6 @@
             this.label11.Size = new System.Drawing.Size(19, 20);
             this.label11.TabIndex = 15;
             this.label11.Text = "8";
-//            this.label11.Click += new System.EventHandler(this.label11_Click);
             // 
             // label13
             // 
@@ -293,7 +291,6 @@
             this.label16.Size = new System.Drawing.Size(19, 20);
             this.label16.TabIndex = 20;
             this.label16.Text = "3";
-//            this.label16.Click += new System.EventHandler(this.label16_Click);
             // 
             // label17
             // 
@@ -368,7 +365,41 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(751, 85);
             this.panel1.TabIndex = 27;
-//            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(523, 32);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(140, 24);
+            this.comboBox1.TabIndex = 39;
+            // 
+            // radioButton3
+            // 
+            this.radioButton3.BackColor = System.Drawing.Color.DarkTurquoise;
+            this.radioButton3.Font = new System.Drawing.Font("Showcard Gothic", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.radioButton3.Location = new System.Drawing.Point(346, 48);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(150, 38);
+            this.radioButton3.TabIndex = 38;
+            this.radioButton3.TabStop = true;
+            this.radioButton3.Text = "HASH STRING";
+            this.radioButton3.UseVisualStyleBackColor = false;
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.BackColor = System.Drawing.Color.DarkTurquoise;
+            this.radioButton2.Font = new System.Drawing.Font("Showcard Gothic", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.radioButton2.Location = new System.Drawing.Point(345, 3);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(151, 39);
+            this.radioButton2.TabIndex = 37;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "HASH INTERGER";
+            this.radioButton2.UseVisualStyleBackColor = false;
             // 
             // label21
             // 
@@ -381,7 +412,6 @@
             this.label21.Size = new System.Drawing.Size(296, 46);
             this.label21.TabIndex = 0;
             this.label21.Text = "OPEN HASHING";
-//            this.label21.Click += new System.EventHandler(this.label21_Click);
             // 
             // textBoxFind
             // 
@@ -448,7 +478,6 @@
             this.label22.Size = new System.Drawing.Size(150, 20);
             this.label22.TabIndex = 26;
             this.label22.Text = "Animation Speed";
-//            this.label22.Click += new System.EventHandler(this.label22_Click);
             // 
             // panel3
             // 
@@ -482,7 +511,6 @@
             this.label23.Size = new System.Drawing.Size(258, 21);
             this.label23.TabIndex = 35;
             this.label23.Text = "Algorithm Visualization";
-//            this.label23.Click += new System.EventHandler(this.label23_Click);
             // 
             // label24
             // 
@@ -515,43 +543,6 @@
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(0, 16);
             this.label27.TabIndex = 37;
-            // 
-            // radioButton2
-            // 
-            this.radioButton2.BackColor = System.Drawing.Color.DarkTurquoise;
-            this.radioButton2.Font = new System.Drawing.Font("Showcard Gothic", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.radioButton2.Location = new System.Drawing.Point(345, 3);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(151, 39);
-            this.radioButton2.TabIndex = 37;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "HASH INTERGER";
-            this.radioButton2.UseVisualStyleBackColor = false;
-            // 
-            // radioButton3
-            // 
-            this.radioButton3.BackColor = System.Drawing.Color.DarkTurquoise;
-            this.radioButton3.Font = new System.Drawing.Font("Showcard Gothic", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.radioButton3.Location = new System.Drawing.Point(346, 48);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(150, 38);
-            this.radioButton3.TabIndex = 38;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "HASH STRING";
-            this.radioButton3.UseVisualStyleBackColor = false;
-//            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(523, 32);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(140, 24);
-            this.comboBox1.TabIndex = 39;
-//            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // Form1
             // 
@@ -603,7 +594,7 @@
             this.HelpButton = true;
             this.Name = "Form1";
             this.Text = "Form2";
-//            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarDelay)).EndInit();
